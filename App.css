@@ -38,8 +38,6 @@ body {
   border-radius: 4px;
   cursor: pointer;
 }
-
-/* Update the CSS in src/App.css */
 .background-select {
   position: absolute;
   top: 20px;
